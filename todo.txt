@@ -5,4 +5,9 @@ Research how to get h2/h3? offset to the left
 
 Go with pale blue bg and text - a bit like Readability option 4
 
-Garamond for font?
+Fonts:
+Calluna
+Athelas
+Merriweather
+
+Use CSS3 @font-face
